@@ -1,0 +1,67 @@
+.main{
+    width: 1000px;
+    height: 1200px;
+    border: 1px solid #000;
+    margin-left: 250px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 19px;
+}
+.main> div{
+    float: left;
+}
+.vnutri{
+    width: 500px;
+    height: 1000px;
+    margin: 0 0 0 150px;
+}
+
+.navigacia{
+    margin-top: 10px;
+}
+
+.zagolovok{
+    text-align: center
+}
+
+.title{
+    font-size: 30px;
+    margin-left: 10px;
+}
+a{
+    text-decoration: none;
+    color: cadetblue;
+    font-size: 24px;
+}
+
+.vnutri-games>div{
+    display: inline-block;
+    margin-left: 10px;
+    width: 800px;
+    height: 300px;
+    margin-left: 90px;
+/*    border: 1px solid #000;*/
+}
+
+.h-games{
+    text-align: center;
+}
+.p-games{
+    text-align: center;
+}
+.myway>div{
+    width: 250px;
+    height: 250px;
+    border: 1px solid #000;
+    float:left;
+    margin: 0 0 10px 55px;
+}
+.steps{
+    text-align-last: center;
+    color:chocolate;
+}
+.p-steps{
+    text-align: center;
+}
+.my-h{
+    text-align: center
+}
